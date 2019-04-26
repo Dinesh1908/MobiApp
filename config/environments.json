@@ -1,0 +1,12 @@
+{
+  "sandbox" : {
+    "name" : "MobileApplication",
+    "identifier" : "io.mxapps.mobileapplication101-sandbox",
+    "url" : "https://mobileapplication101-sandbox.mxapps.io"
+  },
+"development" : {
+    "name" : "MobileApplication",,
+    "identifier" : "io.mxapps.mobileapplication101-sandbox",
+    "url" : "http://localhost:8081/index-phone-preview.html?profile=Phone"
+  }
+}

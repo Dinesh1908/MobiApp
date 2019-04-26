@@ -1,0 +1,26 @@
+{
+  "url" : "https://mobileapplication101-sandbox.mxapps.io",
+  "identifier" : "io.mxapps.mobileapplication101-sandbox",
+  "version" : "0.0.7",
+  "name" : "MobileApplication",
+  "description" : null,
+  "iosEnabled" : false,
+  "androidEnabled" : true,
+  "requirePin" : false,
+  "enableOffline" : true,
+  "permissions" : {
+    "calendar" : false,
+    "camera" : false,
+    "photoLibrary" : false,
+    "contacts" : false,
+    "microphone" : false,
+    "geoLocation" : false,
+    "push" : false
+  },
+  "theme" : {
+    "background" : "#0595DB",
+    "text" : "#ffffff",
+    "button" : "#76CA02",
+    "buttonCaption" : "#ffffff"
+  }
+}
